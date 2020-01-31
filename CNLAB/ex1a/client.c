@@ -45,14 +45,4 @@ int main(){
 
   return close(clientSocket);
 }
-
-
-
-
-
-
-v kcvj jkb cjb kcvb kb kbk cjv 
-
- vc,jnjvc knnvkjb kjvc b
- bhjcv hb cbkh bchk
- n jkcbhkb cvkbjvkbkjvc
+xdfxgfjcfhfgkhfgkhghaaaaa
